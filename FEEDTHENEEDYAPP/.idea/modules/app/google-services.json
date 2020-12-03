@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293456671178",
+    "firebase_url": "https://feed-the-needy-app-be560.firebaseio.com",
+    "project_id": "feed-the-needy-app-be560",
+    "storage_bucket": "feed-the-needy-app-be560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293456671178:android:cd203826d37d99c1bd1f33",
+        "android_client_info": {
+          "package_name": "com.example.feedtheneedyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293456671178-v223b3j4f3hfof3tagao112eabv0iet7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feedtheneedyapp",
+            "certificate_hash": "dbbe3fda63c83ce19c1412ca67f096dec9fbfb2f"
+          }
+        },
+        {
+          "client_id": "293456671178-ikup3t0dvcf34mtmmhfvelupfk0v3qrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrftey9rx1xqwoVB-doNlvxAGQkeGIW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293456671178-ikup3t0dvcf34mtmmhfvelupfk0v3qrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
